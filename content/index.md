@@ -28,3 +28,8 @@ A rede á uma plataforma livre para a ingenuidade humana.
 
 ## Em breve...
 *Esta página está em construção, o conteúdo dos links não está disponível.*
+
+Enquanto isso, curta o playlist inteiro :)
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3vspSVOd4INXJMJcGNz1rb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
